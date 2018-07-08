@@ -1,0 +1,13 @@
+body{
+  background: url("https://t4.ftcdn.net/jpg/01/95/09/25/240_F_195092568_9mswLLiDR0OtAvJDI5OwtlytTWUhBmqA.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top:80px;
+  /* word-wrap:break-word; */
+}
+.btn-default{
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc0;
+  height: -3px;
+}
